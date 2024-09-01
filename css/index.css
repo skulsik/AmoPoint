@@ -1,0 +1,16 @@
+.rectangle-link {
+    display: block;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.rectangle-link:hover {
+    background-color: #f8f9fa;
+    color: #007bff;
+}

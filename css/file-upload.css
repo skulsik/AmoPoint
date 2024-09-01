@@ -1,0 +1,21 @@
+.file-upload {
+    .circle {
+        width: 300px; /* Ширина круга */
+        height: 300px; /* Высота круга */
+        border-radius: 50%; /* Закругление, чтобы сделать круг */
+        display: flex;
+        justify-content: center; /* Центрирование по горизонтали */
+        align-items: center; /* Центрирование по вертикали */
+        color: white; /* Цвет текста */
+        font-size: 18px; /* Размер текста */
+        text-align: center; /* Выравнивание текста */
+    }
+
+    .circle-green {
+        background-color: #4CAF50; /* Цвет фона */
+    }
+
+    .circle-red {
+        background-color: red; /* Цвет фона */
+    }
+}
